@@ -4,8 +4,14 @@ Welcome to my Python projects repository! This is where I'll be documenting my j
 
 ## Repository Structure
 
-- **/to-do-app**: The first project in this repository, a simple to-do list app to help me practice Python basics like functions, file handling, and user input.
-- Additional projects will be added here as I continue learning.
+- `/Expense Calculator`: This folder contains the code for the **Expense Calculator** project, which helps users track expenses by category, view, and calculate totals.
+- `/Number Guessing Game`: This folder contains the **Number Guessing Game** project, where users try to guess a randomly generated number.
+- `/To Do App`: This folder contains the **To Do List App**, which allows users to create, view, and manage a list of tasks.
+- `/LICENSE`: The license file for the repository.
+- `/README.md`: The README file, providing an overview and instructions for the repository.
+
+Additional projects will be added here as I continue learning.
+
 
 ## Project 1: To-Do App
 
