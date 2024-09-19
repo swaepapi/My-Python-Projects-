@@ -16,14 +16,6 @@ The **Expense Calculator** is a Python project that helps users track and manage
 3. `main.py`: The main program that ties everything together and runs the expense tracking application.
 
 
-
-## Features
-
-- **Add Expenses**: You can add expenses to various categories (e.g., food, transport).
-- **View Expenses**: You can view expenses by category.
-- **Calculate Total Expenses**: The program calculates the total amount spent across categories.
-- **Input Validation**: Ensures valid amounts are entered.
-
 ## How to Run
 
 ### Prerequisites
